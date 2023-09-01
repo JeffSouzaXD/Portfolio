@@ -11,6 +11,7 @@ Contact: While this part isn't functional yet, soon you'll be able to get in tou
 This project has been an exciting challenge that required a wide range of technical skills. I look forward to sharing my portfolio with you and continuing to improve it as my tech journey progresses.
 
 Feel free to explore my portfolio, and if you'd like, get in touch to discuss future opportunities or collaborations. Thank you for visiting!
+
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Visão Geral
