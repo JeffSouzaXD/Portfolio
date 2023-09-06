@@ -1,4 +1,11 @@
-Overview
+### Overview
+<div style = "display: inline_block"></br>
+    <img align_item ="center" alt = "Javascript" src = "https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+    <img align_item ="center" alt = "HTML5" src = "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+    <img align_item ="center" alt = "CSS3" src = "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> 
+    <img align_item = "center" alt = "Bootstrap" src = "https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+    <img align_item = "center" alt = "Python" src = "https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+</div></br>
 This repository contains the source code for my personal portfolio website. It's a fully responsive site that documents my work journey, education, and showcases my projects in the technology field. The site was developed using a combination of HTML, CSS, Bootstrap, Javascript, and Python. It's divided into several sections:
 
 Home: The landing page that serves as the cover of the site.
@@ -14,7 +21,14 @@ Feel free to explore my portfolio, and if you'd like, get in touch to discuss fu
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Visão Geral
+### Visão Geral
+<div style = "display: inline_block"></br>
+    <img align_item ="center" alt = "Javascript" src = "https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+    <img align_item ="center" alt = "HTML5" src = "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+    <img align_item ="center" alt = "CSS3" src = "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> 
+    <img align_item = "center" alt = "Bootstrap" src = "https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+    <img align_item = "center" alt = "Python" src = "https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+</div></br>
 Este repositório contém o código-fonte do meu site de portfólio pessoal. É um site totalmente responsivo que documenta minha jornada de trabalho, estudo e apresenta meus projetos na área de tecnologia. O site foi desenvolvido usando uma combinação de HTML, CSS, Bootstrap, Javascript e Python. Ele está dividido em várias seções:
 
 Início: A página inicial, que serve como capa do site.
